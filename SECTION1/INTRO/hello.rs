@@ -1,6 +1,7 @@
-// hello.rs 
+// hello.rs
 
-fn main()
-{
-	println!("hello, world");	
+fn main() {
+    println!("hello, world");
+
+    let count = 10;
 }
